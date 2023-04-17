@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "vazir";
+    src: url(fonts/Vazir.eot);
+    src: url(fonts/Vazir.ttf);
+    src: url(fonts/Vazir.woff);
+    src: url(fonts/Vazir.woff2);
+}
+body {
+    font-family: "vazir";
+}
+.section2 {
+    background-color: #f3f4f5;
+}
+.section2-icon {
+    background-color: #ebeafb;
+    font-size: 2rem;
+    border-radius: 1rem;
+}
+.section2-card-icon {
+    background-color: #ebeafb;
+    font-size: 2rem;
+    border-radius: 1rem;
+}
+.section3-card-icon {
+    background-color: #ebeafb;
+    font-size: 2rem;
+    border-radius: 1rem;
+}
+.section3-card-middle {
+    background-color: #1b2a4e;
+}
+.section4 {
+    background-color: #1b2a4e;
+}
+.footer {
+    background-color: #f3f4f5;
+}
+.footer-icon {
+    font-size: 2rem;
+}
